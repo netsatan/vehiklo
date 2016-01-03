@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Vehiklo
+_Comment=Vehiklo application
+Categories=GNOME;Utility;
+Exec=vehiklo
+Icon=vehiklo
+Terminal=false
+Type=Application
